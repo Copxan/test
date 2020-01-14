@@ -49,11 +49,16 @@ button{
   text-decoration: none;
   padding: 2%;
   margin: 2%;
-  box-shadow: 30px -10px teal;
+  box-shadow: 20px -10px #7ca735;
   border: none;
   border-radius: 5%;
 }
 
 button a{
   text-decoration: none;
+  color: #000;
+}
+
+button a:hover{
+  color: #7ca735;
 }
