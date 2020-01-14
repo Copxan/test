@@ -13,12 +13,22 @@ ul{
 #Nous{
   width: 100%;
   display: flex;
+  padding: 50px;
 }
 #Morgane, #Pauline{
   width: 50%;
   font-family: 'courgette', cursive;
 }
 
+#bonjour{
+  font-family: 'Luckiest Guy', cursive;
+  padding: 25px;
+  font-size: 35px;
+}
+body>p{
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 20px;
+}
 h1{
   background-color: rgba(124, 167, 54, 0.7);
   font-size: 3em;
