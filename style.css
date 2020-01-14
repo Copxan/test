@@ -32,7 +32,7 @@ body>p{
 h1{
   font-size: 4.5em;
   font-family: 'Luckiest Guy', cursive;
-  color: #7ca735;
+  color: #000;
 }
 
 header h1{
@@ -93,8 +93,8 @@ li img{
   padding: 5px;
 }
 
-#pannier img{
-  position: absolute;
+#panier img{
+  position: fixed;
   right: 10px;
   top: 10px;
   width: 2%;
