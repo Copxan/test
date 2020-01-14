@@ -30,13 +30,17 @@ body>p{
   font-size: 20px;
 }
 h1{
-  background-color: rgba(124, 167, 54, 0.7);
+
   font-size: 3em;
   font-family: 'Luckiest Guy', cursive;
 }
 
 header h1{
   padding: 10px;
+  position: absolute;
+  z-index: 1;
+  left: 5%;
+  top:10%;
 }
 header img{
   width: 100%;
