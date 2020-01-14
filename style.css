@@ -4,15 +4,3 @@ body{
 ul{
   list-style: none;
 }
-#Nous{
-  width: 100%; 
-  display: flex;
- 
-}
-#Morgane, #Pauline{
- 
-  width: 50%;
-  
-
-
-}
