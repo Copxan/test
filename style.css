@@ -57,6 +57,11 @@ li img{
   padding: 5px;
 }
 
+a img{
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
 a img:hover{
   transform: rotate(360deg);
   transition: 0.55s;
