@@ -44,3 +44,16 @@ a img:hover{
   transform: rotate(360deg);
   transition: 0.55s;
 }
+
+button{
+  text-decoration: none;
+  padding: 2%;
+  margin: 2%;
+  box-shadow: 30px -10px teal;
+  border: none;
+  border-radius: 5%;
+}
+
+button a{
+  text-decoration: none;
+}
