@@ -29,3 +29,8 @@ header img{
   height: 35vh;
   object-fit: cover;
 }
+
+a img:hover{
+  transform: rotate(360deg);
+  transition: 0.55s;
+}
