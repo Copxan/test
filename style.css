@@ -7,24 +7,7 @@
 body{
   text-align: center;
 }
-ul{
-  list-style: none;
-}
-#Nous{
-  width: 100%;
-  display: flex;
-  padding: 50px;
-}
-#Morgane, #Pauline{
-  width: 50%;
-  font-family: 'courgette', cursive;
-}
 
-#bonjour{
-  font-family: 'Luckiest Guy', cursive;
-  padding: 25px;
-  font-size: 35px;
-}
 body>p{
   font-family: 'Luckiest Guy', cursive;
   font-size: 20px;
@@ -35,6 +18,7 @@ h1{
   color: #000;
 }
 
+/*************************************Bannière */
 header h1{
   padding: 10px;
   position: absolute;
@@ -42,6 +26,7 @@ header h1{
   right: 5%;
   top:10%;
 }
+
 header img{
   width: 100%;
   height: 35vh;
@@ -49,8 +34,29 @@ header img{
   opacity: 70%;
 }
 
+/*************************************Bonjour */
+#bonjour{
+  font-family: 'Luckiest Guy', cursive;
+  padding: 25px 0 5px 0;
+  font-size: 35px;
+}
+/*************************************Nous */
+#Nous{
+  width: 100%;
+  display: flex;
+  padding: 50px;
+}
+#Morgane, #Pauline{
+  width: 50%;
+  font-family: 'courgette', cursive;
+}
+/*************************************Listes */
+
 nav{
   padding-top: 10px;
+}
+ul{
+  list-style: none;
 }
 
 li img{
@@ -66,6 +72,11 @@ a img:hover{
   transform: rotate(360deg);
   transition: 0.55s;
 }
+li img{
+  padding: 5px;
+}
+
+/*************************************Boutons */
 
 button{
   text-decoration: none;
@@ -85,13 +96,8 @@ button a:hover{
   color: #7ca735;
 }
 
-nav{
-  padding-top: 10px;
-}
+/*************************************Pannier */
 
-li img{
-  padding: 5px;
-}
 
 #panier img{
   position: fixed;
