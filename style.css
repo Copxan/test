@@ -15,16 +15,18 @@ body>p{
 h1{
   font-size: 4.5em;
   font-family: 'Luckiest Guy', cursive;
-  color: #000;
+  mix-blend-mode: exclusion;
 }
 
 /*************************************Bannière */
+
 header h1{
   padding: 10px;
   position: absolute;
   z-index: 1;
   right: 5%;
   top:10%;
+
 }
 
 header img{
@@ -32,6 +34,7 @@ header img{
   height: 35vh;
   object-fit: cover;
   opacity: 70%;
+
 }
 
 /*************************************Bonjour */
