@@ -39,7 +39,7 @@ header h1{
   padding: 10px;
   position: absolute;
   z-index: 1;
-  left: 5%;
+  right: 5%;
   top:10%;
 }
 header img{
