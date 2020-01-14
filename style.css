@@ -35,6 +35,9 @@ h1{
   font-family: 'Luckiest Guy', cursive;
 }
 
+header h1{
+  padding: 10px;
+}
 header img{
   width: 100%;
   height: 35vh;
