@@ -16,8 +16,8 @@ body>p{
 h1{
   font-size: 4.5em;
   font-family: 'Luckiest Guy', cursive;
- 
-}
+  mix-blend-mode: exclusion;
+ }
 
 /*************************************Bannière */
 
