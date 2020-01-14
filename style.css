@@ -12,3 +12,8 @@ ul{
   width: 50%;
   font-family: 'courgette', cursive;
 }
+
+h1{
+  background-color: bisque;
+  font-size: 3em;
+}
