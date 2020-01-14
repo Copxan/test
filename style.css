@@ -5,7 +5,7 @@ ul{
   list-style: none;
 }
 #Nous{
-  width: 100%; 
+  width: 100%;
   display: flex;
 }
 #Morgane, #Pauline{
@@ -16,4 +16,5 @@ ul{
 h1{
   background-color: bisque;
   font-size: 3em;
+  font-family: 'Luckiest Guy', cursive;
 }
