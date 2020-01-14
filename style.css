@@ -86,3 +86,10 @@ nav{
 li img{
   padding: 5px;
 }
+
+#pannier img{
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  width: 2%;
+}
